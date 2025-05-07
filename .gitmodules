@@ -1,0 +1,4 @@
+[submodule "echohakublog/public"]
+	path = echohakublog/public
+	url = https://github.com/echohaku/echoHaku.github.io.git
+	branch = main

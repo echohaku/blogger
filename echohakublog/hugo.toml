@@ -1,0 +1,4 @@
+baseURL = 'https://echoHaku.github.io/'
+languageCode = 'en-us'
+title = 'ECHOHAKU BLOG'
+theme = 'rusty-typewriter'
